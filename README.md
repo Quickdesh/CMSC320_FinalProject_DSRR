@@ -6,7 +6,7 @@
   
 - SteamDB Monthly Players Breakdown - https://steamdb.info/app/1172470/
   
-## Why did we chose these datasets ?
+## Why did we choose these datasets ?
 
 As avid fans of Apex Legends, we were curious to find the aspects of the updates, introduced through various seasons over time, that affected user reviews and the monthly player breakdown of the game.
 
